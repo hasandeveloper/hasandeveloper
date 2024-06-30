@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hasan Ali
 - 👀 I’m interested in learn new skills
-- 🌱 I’m currently Learning NodeJS and Express
-- 💞️ I’m looking for freelancing work.
+- 🌱 I’m currently Full Stack developer
 - 📫 hasanalitech@gmail.com
