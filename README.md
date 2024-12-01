@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hasan Ali
-- 👀 I’m interested in learn new skills
-- 🌱 I’m currently Full Stack developer
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently a Full Stack developer
 - 📫 hasanalitech@gmail.com
+- -> https://hasanalicn.netlify.app/
