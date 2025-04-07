@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently a Full Stack developer
 - 📫 hasanalitech@gmail.com
-- -> https://hasanalicn.netlify.app/
+- -> https://www.hasanalicn.com/
