@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hasan Ali
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently a Full Stack developer
+- 🌱 I’m currently a polyglot full-stack developer
 - 📫 hasanalitech@gmail.com
 - -> https://www.hasanalicn.com/
