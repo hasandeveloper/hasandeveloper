@@ -94,7 +94,7 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 ---
 
 ### ⚙️ Backend Systems
-- RESTful APIs using FastAPI and Node.js
+- RESTful APIs using FastAPI, Node.js and Ruby on Rails
 - Authentication & user management systems
 - Background job processing and queue systems
 
