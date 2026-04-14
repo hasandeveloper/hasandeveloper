@@ -36,7 +36,7 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 - LangGraph (Agent Orchestration)
 - LangChain
 - RAG Pipelines
-- ChromaDB (Vector Database)
+- ChromaDB/Pinecone (Vector Database)
 
 ---
 
