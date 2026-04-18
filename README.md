@@ -55,8 +55,8 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 ---
 
 ### ☁️ Cloud & DevOps Engineering
-- AWS (RDS, S3, EC2, ECS, Lambda)
-- Load Balancing (ALB/NLB)
+- AWS (RDS, S3, EC2, ECS, Lambda, WAF, GuardDuty, Cloudwatch, IAM)
+- Load Balancing (ALB)
 - Auto Scaling Groups
 - Networking (VPC, Security Groups, Route 53, Target Groups)
 - AWS CLI
@@ -85,7 +85,7 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 
 ---
 
-### 🛒 Ecommerce Intelligence System
+### 🛒 E-commerce Intelligence System
 - AI-powered product recommendation engine
 - Order-aware chatbot assistant
 - Backend APIs for real-time user interactions
@@ -94,7 +94,7 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 ---
 
 ### ⚙️ Backend Systems
-- RESTful APIs using FastAPI, Node.js and Ruby on Rails
+- RESTful APIs using FastAPI, Node.js, and Ruby on Rails
 - Authentication & user management systems
 - Background job processing and queue systems
 
