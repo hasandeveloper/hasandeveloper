@@ -57,6 +57,8 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 ### ☁️ Cloud & DevOps Engineering
 - AWS (RDS, S3, EC2, ECS, Lambda, WAF, GuardDuty, Cloudwatch, IAM)
 - Load Balancing (ALB)
+- Cloudfront 
+- CRR and DR
 - Auto Scaling Groups
 - Networking (VPC, Security Groups, Route 53, Target Groups)
 - AWS CLI
