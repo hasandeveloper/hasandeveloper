@@ -19,7 +19,6 @@ I enjoy solving real-world engineering problems and turning ideas into scalable,
 
 ## 🧠 What I Build
 
-- 🤖 Agentic AI systems using **LangGraph**
 - 🔍 RAG-based knowledge systems with vector databases
 - 💬 Intelligent chatbots with memory + reasoning capabilities
 - 🛒 AI-powered ecommerce recommendation systems
