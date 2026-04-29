@@ -1,125 +1,124 @@
 # 👋 Hasan Ali
 
-**AI Engineer | Backend Engineer | Building Scalable AI Systems**
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-LLM%20%26%20Agents-blue?style=for-the-badge)
+![Backend Engineer](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Node.js-green?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Architect-orange?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-purple?style=for-the-badge)
 
 ---
 
 ## 🚀 About Me
 
-I am an AI & Backend Engineer focused on building **production-grade AI systems and scalable backend architectures**.
+AI & Backend Engineer focused on building **production-grade AI systems, scalable APIs, and agent-based architectures**.
 
-My core focus is on designing systems that combine:
-- Retrieval-Augmented Generation (RAG)
-- High-performance backend APIs
-- Cloud-native distributed systems
+I specialize in turning AI systems into **real-world production applications** using:
 
-I enjoy solving real-world engineering problems and turning ideas into scalable, reliable systems.
+* LLMs (OpenAI GPT models)
+* RAG pipelines
+* Agent orchestration (LangGraph)
+* Cloud-native backend systems (AWS)
 
 ---
 
 ## 🧠 What I Build
 
-- 🔍 RAG-based knowledge systems with vector databases
-- 💬 Intelligent chatbots with memory + reasoning capabilities
-- 🛒 AI-powered ecommerce recommendation systems
-- ⚙️ Scalable backend APIs and microservices
-- ☁️ Cloud-native architectures on AWS
+* 🔍 Retrieval-Augmented Generation (RAG) systems
+* 💬 AI chatbots with memory + summarization
+* 🤖 Agentic AI workflows (LangGraph)
+* 🛒 AI-powered ecommerce intelligence systems
+* ⚙️ High-performance backend APIs
+* ☁️ Scalable AWS cloud architectures
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / LLM Engineering
-- OpenAI APIs
-- LangGraph (Agent Orchestration)
-- LangChain
-- RAG Pipelines
-- ChromaDB/Pinecone (Vector Database)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-black)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blueviolet)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-purple)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-teal)
 
 ---
 
 ### 🧩 Backend Engineering
-- FastAPI (Python)
-- Node.js / Express.js
-- Ruby on Rails (MVC Architecture)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Python-green)
+![Node.js](https://img.shields.io/badge/Node.js-Express.js-lightgreen)
+![Rails](https://img.shields.io/badge/Rails-MVC-red)
 
 ---
 
 ### 🗄️ Databases
-- PostgreSQL
-- Redis
-- Vector Databases (ChromaDB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue)
+![Redis](https://img.shields.io/badge/Redis-Caching-red)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-teal)
 
 ---
 
-### ☁️ Cloud & DevOps Engineering
-- AWS (RDS, S3, EC2, ECS, Lambda, WAF, GuardDuty, Cloudwatch, IAM)
-- Load Balancing (ALB)
-- Cloudfront 
-- CRR and DR
-- Auto Scaling Groups
-- Networking (VPC, Security Groups, Route 53, Target Groups)
-- AWS CLI
-- Docker & Containerization
-- CI/CD with GitHub Actions
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black)
 
 ---
 
-## 🧩 Current Focus
-
-- Building **agentic AI systems using LangGraph**
-- Designing scalable **RAG pipelines for real-world data**
-- Improving backend system performance and reliability
-- Architecting cloud-native applications on AWS
-- Optimizing database and API performance at scale
-
----
-
-## 🚀 Projects
+## 🧩 Featured Projects
 
 ### 🤖 AI Chatbot Platform (RAG + LangGraph)
-- Multi-step AI agent workflows using LangGraph
-- Document ingestion from S3
-- Vector search with ChromaDB
-- Context-aware AI responses with memory
+
+> Production-grade AI assistant with memory + retrieval
+
+* Multi-step AI agent workflows using LangGraph
+* Context-aware memory system (Redis + summarization)
+* Vector search using ChromaDB
+* Document ingestion via AWS S3
+* RAG-based intelligent responses
 
 ---
 
-### 🛒 E-commerce Intelligence System
-- AI-powered product recommendation engine
-- Order-aware chatbot assistant
-- Backend APIs for real-time user interactions
-- Scalable architecture for high traffic workloads
+### 🛒 AI E-commerce Intelligence System
+
+* AI product recommendation engine
+* Smart return & order assistant chatbot
+* Real-time backend APIs
+* Scalable architecture for high traffic
 
 ---
 
 ### ⚙️ Backend Systems
-- RESTful APIs using FastAPI, Node.js, and Ruby on Rails
-- Authentication & user management systems
-- Background job processing and queue systems
+
+* REST APIs with FastAPI / Node.js / Rails
+* Authentication & user management
+* Background job processing
+* Performance optimization & caching
 
 ---
 
 ## 📈 Engineering Interests
 
-- Distributed systems design
-- AI agent architectures
-- Backend scalability & performance optimization
-- PostgreSQL query optimization
-- Cloud infrastructure design (AWS)
-- System design for AI-powered applications
+* Distributed systems design
+* AI agent architectures
+* RAG pipeline optimization
+* Backend scalability & performance tuning
+* PostgreSQL optimization
+* AWS cloud architecture
+* Production AI systems
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **hasanalitech@gmail.com**
-- 🌐 Portfolio: https://www.hasanalicn.com
+* 📧 Email: **[hasanalitech@gmail.com](mailto:hasanalitech@gmail.com)**
+* 🌐 Portfolio: [https://www.hasanalicn.com](https://www.hasanalicn.com)
 
 ---
 
 ## ⚡ Engineering Philosophy
 
-> “Build systems that are simple to scale, not hard to fix.”
+> “Build systems that scale before they are needed — not after they break.”
 
 ---
