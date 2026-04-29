@@ -9,7 +9,6 @@
 I am an AI & Backend Engineer focused on building **production-grade AI systems and scalable backend architectures**.
 
 My core focus is on designing systems that combine:
-- Agentic AI workflows
 - Retrieval-Augmented Generation (RAG)
 - High-performance backend APIs
 - Cloud-native distributed systems
